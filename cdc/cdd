@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#echo "> delete ? (Y/N)" 
+#read -p "> " res
+
+#if [ "$res" == "Y" ]
+#then
+    #rm -rf ~/.cdcache
+    vi ~/.cdcache
+    echo delete.
+#fi
